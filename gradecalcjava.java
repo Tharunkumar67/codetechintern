@@ -1,3 +1,9 @@
+
+
+
+C:\Users\V.THARUN KUMAR\Pictures\Screenshots\Screenshot 2024-08-30 111314.png
+
+
 import java.util.Scanner;
 
 public class Main {
